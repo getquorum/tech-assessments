@@ -16,7 +16,7 @@ You'll see two lists - the first list contains `unit`, `name` and empty `fee` en
 - You don't need to do anything with the `name` column at this time
 - If you cannot find a matching `fee` for a `unit` entry, then put `"N/A"` in that entry's `fee` column
 
-To help you out, there's an example match already made in the spreadsheet. When you're done, you'll have a spreadsheet that looks like the image below.
+There's an example match already made in the spreadsheet to get you started. When you're done, you'll have a spreadsheet that looks like the image below.
 
 ![](results.png)
 
