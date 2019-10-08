@@ -12,7 +12,7 @@ You'll see that the data in Column B contains a full mailing address.
 
 **Your job is to break out the individual address parts (eg. street, city, postal, etc.) into the corresponding columns (C to H).**
 
-There are two examples, so just follow along with this. The resulting file should look similar to the following when you're done.
+There are two examples, so just follow along with this. The resulting file should look similar to the following image when you're done.
 
 ![](results.png)
 
