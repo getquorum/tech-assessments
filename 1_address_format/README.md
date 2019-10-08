@@ -4,7 +4,7 @@ In this test, you are tasked with breaking out a long address string (Column B) 
 
 ## Instructions
 
-Download the `address formatting test.xlsx` spreadsheet and open it in Excel. You'll see something that looks like the image below.
+Download the [address formatting test.xlsx](address_formatting_test.xlsx) spreadsheet and open it in Excel. You'll see something that looks like the image below.
 
 ![](test.png)
 
