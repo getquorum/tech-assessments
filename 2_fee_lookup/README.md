@@ -1,6 +1,6 @@
 # Test #2 - Fee Lookup Test
 
-In this test, you are tasked with matching data between two lists.
+In this test you are tasked with matching data between two lists.
 
 ## Instructions
 
