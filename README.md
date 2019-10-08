@@ -2,7 +2,7 @@
 
 Congratulations!
 
-If you've made it this far then you're an awesome candidate. The next step is for you to complete some assessments of your technical abilities. The assessments will help you understand the types of technical tasks you'll encounter at GetQuorum. Each test is designed to be short - it should take about 10 minutes or less to complete test.
+If you've made it this far then you're an awesome candidate. The next step is for you to complete some assessments of your technical abilities. The assessments will help you understand the types of technical tasks you'll encounter at GetQuorum. Each test is designed to be short - it should take about 10 minutes or less to complete each test.
 
 If you're not a candidate and have just stumbled onto this page, then you're awesome too. Give these tests a try for fun (if you're into that sort of thing).
 
