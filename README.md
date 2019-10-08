@@ -19,6 +19,11 @@ Send and email with all the completed test files attached to:
 
 ## What happens after I send the tests in?
 
-We'll review your tests.
+We'll review your tests and then contact you for an in-person interview. We'll ask you questions about how you completed your test, and we may ask you to complete another short test during the interview as well.
 
 ## Let's get started
+
+Click on the folders above to see the instructions for each test, or click on the below:
+
+- [Test 1: Address Formatting](1_address_format)
+- [Test 2: Fee Lookup](2_fee_lookup)
