@@ -14,8 +14,8 @@ Each folder contains an Excel (`.xlsx`) file test along with a README file with 
 
 Send an email with all the completed test files attached to:
 
-- **to:** careers[AT]getquorum.com (replace the [AT] with @)
-- **subject:** "Completed Tests for [Your Name] (replace [Your Name] with your name)"
+- **to:** careers[AT]getquorum.com _(replace the [AT] with @)_
+- **subject:** "Completed Tests for [Your Name]" _(replace [Your Name] with your name)_
 
 ## What happens after I send the tests in?
 
