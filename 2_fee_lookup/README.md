@@ -40,3 +40,5 @@ Make sure you've completed [Test #1](../1_address_format) before sending us an e
 - **to:** careers[AT]getquorum.com (replace the [AT] with @)
 - **subject:** "Completed Tests for [Your Name] (replace [Your Name] with your name)"
 - Attach all the completed tests to the email.
+
+_Disclaimer: All data used in this test was mocked using a random data generator. Any relation to real world data would be by pure coincidence_
