@@ -25,7 +25,7 @@ Save the updated file and email it to us
 ### Hints and notes to help you out
 
 - Consider sorting each list
-- Do a quick Google search on how to use Excel's lookup features
+- (Advanced) If you're feeling adventurous, do a Google search on "how to use Excel's lookup features"
 
 ## What are we testing for?
 
