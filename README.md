@@ -12,7 +12,7 @@ Each folder contains an Excel (`.xlsx`) file test along with a README file with 
 
 ## Sending the completed tests back to us
 
-Send and email with all the completed test files attached to:
+Send an email with all the completed test files attached to:
 
 - **to:** careers[AT]getquorum.com (replace the [AT] with @)
 - **subject:** "Completed Tests for [Your Name] (replace [Your Name] with your name)"
