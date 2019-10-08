@@ -27,15 +27,16 @@ Save the updated file and email it to us
 - Consider sorting each list
 - Do a quick Google search on how to use Excel's lookup features
 
-## Send the completed tests back to us
-
-Send an email with all the completed test files attached to:
-
-- **to:** careers[AT]getquorum.com (replace the [AT] with @)
-- **subject:** "Completed Tests for [Your Name] (replace [Your Name] with your name)"
-
 ## What are we testing for?
 
 One of our core services is to distribute "personalized letters" to our customer's voters. We often receive multiple spreadsheets, each one containing partial amounts of data. We need to "merge" the data so that we have a complete data set.
 
 We call this process of merging customer data **"data merging"**.
+
+## Send the completed tests back to us
+
+Make sure you've completed [Test #1](../1_address_format) before sending us an email.
+
+- **to:** careers[AT]getquorum.com (replace the [AT] with @)
+- **subject:** "Completed Tests for [Your Name] (replace [Your Name] with your name)"
+- Attach all the completed tests to the email.
