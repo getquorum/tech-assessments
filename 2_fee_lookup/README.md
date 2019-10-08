@@ -1,10 +1,10 @@
-# Test #1 - Address Formatting Test
+# Test #2 - Fee Lookup Test
 
 In this test, you are tasked with matching data between two lists.
 
 ## Instructions
 
-Click here to download the [fee_lookup_teset.xlsx](fee_lookup_test.xlsx?raw=true) spreadsheet and open it in Excel. You'll see something that looks like the image below.
+Click here to download the [fee_lookup_test.xlsx](fee_lookup_test.xlsx?raw=true) spreadsheet and open it in Excel. You'll see something that looks like the image below.
 
 ![](test.png)
 
@@ -24,7 +24,7 @@ Save the updated file and email it to us
 
 ### Hints and notes to help you out
 
-- Consider sorting each list first
+- Consider sorting each list
 - Do a quick Google search on how to use Excel's lookup features
 
 ## Send the completed tests back to us

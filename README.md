@@ -19,7 +19,7 @@ Send and email with all the completed test files attached to:
 
 ## What happens after I send the tests in?
 
-We'll review your tests and then contact you for an in-person interview. We'll ask you questions about how you completed your test, and we may ask you to complete another short test during the interview as well.
+We'll review your tests and then contact you for an in-person interview. We'll ask you questions about how you completed your test **and we may ask you to complete another short test during the interview**.
 
 ## Let's get started
 
