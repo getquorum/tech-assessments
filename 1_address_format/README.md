@@ -1,6 +1,6 @@
 # Test #1 - Address Formatting Test
 
-In this test, you are tasked with breaking out a long address string (Column B) into multiple columns of the individual address parts (Columns C to H). See example image below.
+In this test, you are tasked with breaking out a long address string into it's individual address parts (eg. street address, city, postal, etc).
 
 ## Instructions
 
