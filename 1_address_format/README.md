@@ -33,3 +33,6 @@ We call the process of reformatting customer data **"data cleaning"**.
 ## The next test
 
 Be sure to complete [Test #2](../2_fee_lookup) before sending us an email.
+
+
+_Disclaimer: All data used in this test was mocked using a random data generator. Any relation to real world data would be by pure coincidence_
