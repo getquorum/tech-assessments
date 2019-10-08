@@ -26,7 +26,7 @@ Save the updated file and email it to us
 
 ## What are we testing for?
 
-When we onboard a customer, we must first load in the data for their voters into our system. The "customer data" is typically sent to us in a spreadsheet format (`xlsx`, or `csv`). However, the customer data is usually not in a format that our system can understand. In order for our system to understand the customer data, it needs to be formatted in a way that our software can interpret.
+When we onboard a customer, we must first load in the data for their voters into our system. The "customer data" is typically sent to us in a spreadsheet format (`xlsx`, or `csv`). However, the customer data is usually not in a format that our system can understand. We need to reformat the data into something we can use.
 
 We call the process of reformatting customer data as **"data cleaning"**.
 
