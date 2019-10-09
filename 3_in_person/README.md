@@ -9,7 +9,7 @@ Except...
 
 ## Instructions
 
-That's right, we'll be completing the test together. We'll be sitting beside you with a laptop and the test file open. You're the expert, you'll tell us what _we_ need to do to complete the test, one step at a time.
+That's right, we'll be completing the test together. We'll be sitting beside you with a laptop and the test file open. We'll be the driver and you'll guide us through the process of completing the test. It's a process similar to [pair programming](https://en.wikipedia.org/wiki/Pair_programming).
 
 ### To help you prepare
 
