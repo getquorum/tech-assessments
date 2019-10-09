@@ -4,7 +4,7 @@ In this test you will be tasked with matching data between lists and breaking ou
 
 This test will be conducted in person at our offices. We'll provide you with the test file, a laptop, and ample time to complete the test. Don't worry, you'll be able to use the internet to find answers if needed. We'll also be in the room with you while you're doing the test to answer questions and guide you through it if you get stuck. 
 
-If you aced the two previous tests then this one will be quick.
+If you aced the two previous tests then this one will be quick (<10 mins).
 
 ## Instructions
 
