@@ -4,7 +4,7 @@ In this test you will be tasked with matching data between lists and breaking ou
 
 Except...
 
-1. this test will be conducted in person at our offices.
+1. this test will be conducted in person at our offices; and
 2. using your knowledge from completing the previous tests, you'll _tell us_ how to complete the test
 
 ## Instructions
