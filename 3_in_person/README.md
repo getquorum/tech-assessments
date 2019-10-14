@@ -2,14 +2,7 @@
 
 In this test you will be tasked with matching data between lists and breaking out long strings. It's a combination of the concepts from Tests 1 and 2. 
 
-Except...
-
-1. this test will be conducted in person at our offices; and
-2. using your knowledge from completing the previous tests, you'll _tell us_ how to complete the test
-
-## Instructions
-
-That's right, we'll be completing the test together. We'll be sitting beside you with a laptop and the test file open. We'll be the driver and you'll navigate us through the process of completing the test. It's a process similar to [pair programming](https://en.wikipedia.org/wiki/Pair_programming).
+There's no test file to work on, instead we'll conduct the assessment in person at our offices. You'll use your knowledge from completing the previous tests to describe how you'd go about solving this one.
 
 ### To help you prepare
 
@@ -19,7 +12,7 @@ The image below shows you an example of the test file we'll be working with.
 
 The file will once again contain two lists. The first list will have `unit`, `name`, and missing `fee` & `mailing address` information.  The second list will contain the matching `fee` and `address` information.
 
-### Our job will be to...
+### Your job will be to...
 
 - add the missing `fee` and `mailing address` data to the first list using the matching data from the second list. 
 - break out the `mailing address` data into it's individual address parts.
