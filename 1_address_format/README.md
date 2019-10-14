@@ -22,7 +22,7 @@ Save the updated file and email it back to us
 
 - Sort the data and look for patterns
 - The `mail_address2` column is optional, some of the USA entries may not have a `mail_address2` and that's OK!
-- (Advanced) If you're feeling a bit adventurous, Google "how to handle delimiters with Excel"
+- (Advanced) If you're feeling a bit adventurous, Google "Excel split text delimiter"
 
 ## What are we testing for?
 
