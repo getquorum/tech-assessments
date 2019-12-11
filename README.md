@@ -27,3 +27,4 @@ Click on the links below to get started with the assessment:
 
 - [Test 1: Address Formatting](1_address_format)
 - [Test 2: Fee Lookup](2_fee_lookup)
+- [Test 3: In Person Assessment](3_in_person)
