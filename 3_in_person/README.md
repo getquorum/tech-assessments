@@ -1,6 +1,6 @@
-# Test #3 - The In-person Test
+# Test #3 - The In-person Assessment
 
-In this test you will be tasked with matching data between lists and breaking out long strings. It's a combination of the concepts from Tests 1 and 2. 
+In this assessment you will be tasked with matching data between lists and breaking out long strings. It's a combination of the concepts from Tests 1 and 2. 
 
 There's no test file to work on, instead we'll conduct the assessment in person at our offices. You'll use your knowledge from completing the previous tests to describe how you'd go about solving this one.
 
@@ -28,8 +28,8 @@ The image below is an example of what the final results should look like.
 - Look into the `(Advanced)` hints from the previous two tests
 - Look into how to **sort** and **filter** data using Excel
 
-## What are we testing for?
+## What are we assessing?
 
-This test is a simplified example of the type of work you'll be doing at GetQuorum on a regular basis. Our customers provide us with multiple data files during the onboarding process. One of your responsibilities will be to **clean** and **merge** the data into a format that our system can accept.
+This assessment is a simplified example of the type of work you'll be doing at GetQuorum on a regular basis. Our customers provide us with multiple data files during the onboarding process. One of your responsibilities will be to **clean** and **merge** the data into a format that our system can accept.
 
 _Disclaimer: All data used in this test was mocked using a random data generator. Any relation to real world data would be by pure coincidence_
